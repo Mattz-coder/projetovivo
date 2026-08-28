@@ -7,8 +7,8 @@
     whatsapp:       "https://api.whatsapp.com/send?phone=5511999151515", // Atendimento com humano
     app:             "https://www.vivo.com.br/aplicativo",                // Redireciona para o aplicativo
     site_normal:     "https://www.vivo.com.br/atendimento",               // Site normal
-    site_idoso:      "site-inclusivo/index.html",                         // Site adaptado, mais zoom e imagens
-    site_inclusivo:  "site-inclusivo/index.html",                         // Site inclusivo, com mais imagens
+    site_idoso:      "https://www.vivo.com.br/atendimento",                         // Site adaptado, mais zoom e imagens
+    site_inclusivo:  "https://www.vivo.com.br/atendimento",                         // Site inclusivo, com mais imagens
   };
 
   // Tempo (ms) até o redirecionamento automático acontecer no fim do fluxo.
