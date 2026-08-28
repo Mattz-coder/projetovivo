@@ -308,7 +308,7 @@
       title: "✨ Como quer continuar?",
       iconOptions: true,
       options: [
-        { label: "WhatsApp", icon: "💬", target: "whatsapp" },
+        { label: "WhatsApp", href imag-src: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/1280px-WhatsApp.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20220228223904", target: "whatsapp" },
         { label: "Site da Vivo", icon: "🌐", target: "site_inclusivo" },
       ],
       onConfirm(opt){
